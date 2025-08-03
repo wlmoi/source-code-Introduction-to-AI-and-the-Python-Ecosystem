@@ -1,5 +1,9 @@
 import pandas as pd
 
+# ENGLISH --- WILLIAM ANTHONY
+# This script performs data exploration and analysis on a sales dataset!
+# https://gdgocitb.com/dashboard/courses/8 -- AI Track
+# It calculates total revenue, identifies the best-selling product, and summarizes revenue by category.
 # Assumption: The dataset is in a CSV file named 'data_penjualan.csv' in the same directory as this script.
 # The user provided the content and name of this CSV.
 try:
