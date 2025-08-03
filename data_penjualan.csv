@@ -1,0 +1,11 @@
+ID_Transaksi,Nama_Produk,Kategori,Harga_Satuan,Jumlah_Terjual,Tanggal
+1,Buku Tulis,Alat Tulis,5000,10,2023-01-05
+2,Pensil 2B,Alat Tulis,2000,25,2023-01-05
+3,Roti Coklat,Makanan,3500,15,2023-01-06
+4,Air Mineral,Minuman,3000,30,2023-01-06
+5,Penghapus,Alat Tulis,1500,15,2023-01-07
+6,Keripik Kentang,Makanan,7500,20,2023-01-07
+7,Jus Jeruk,Minuman,6000,12,2023-01-08
+8,Buku Gambar A4,Alat Tulis,12000,5,2023-01-08
+9,Biskuit,Makanan,4500,18,2023-01-09
+10,Teh Botol,Minuman,5000,22,2023-01-09
