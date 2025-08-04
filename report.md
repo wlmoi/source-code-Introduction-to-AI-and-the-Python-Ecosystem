@@ -1,9 +1,43 @@
 # AI Assignment Report - William Anthony
 (English)
 
+## PROBLEM STATEMENT / ASSIGNMENT
+AI Assignment
+1. Download the dataset on the 'Source Code' above.
+
+2. Do some explorations through the dataset, including:
+- Display the first 5 rows of the dataset.
+- Display a concise summary of the dataset information.
+
+3. Perform data analysis:
+- Create a new column named Total_Pendapatan which is the result of multiplying Harga_Satuan by Jumlah_Terjual.
+- Calculate and display the overall total revenue from all transactions.
+- Find and display the product with the highest quantity sold.
+- Calculate the total revenue for each product category.
+- Filter and display transactions where the quantity sold is greater than 20.
+
+4. Save the results:
+- Create a new DataFrame containing the aggregated revenue per category.
+- Save this new DataFrame to a CSV file named category_summary.csv. Do not include the row index in the saved CSV file.
+
+5. Answer the following questions in a file named report.md 
+- Based on the output of your Python script, write down several insights (minimum of 3) that you found. Example: "Which product category is the most profitable?"
+- Briefly explain the differences between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL) based on your understanding from the module.
+- Imagine you are a store owner. How can you leverage AI to improve your business based on the existing sales data? Provide a minimum of 2 examples of AI implementation and briefly explain how they work.
+
+Task Provisions
+- The task must be completed independently.
+- Write down any assumptions if you feel something is ambiguous or unclear.
+- All task code must be written in a python file or an ipynb notebook file.
+- Also, add descriptions for the code or insights obtained in a separate markdown file or within a markdown cell in the ipynb file.
+- Compress all submission files into a zip file with the naming format <Full Name>_AI.zip.
+
+
+
+## ANSWER
 ## 1. Insights from Data Analysis
 
-Based on the output of the Python script and the `category_summary.csv` file, here are several insights found:
+So, based of the output of the Python script (machine_learning.py) after processing `data_penjualan.csv` and the `category_summary.csv` file, here are several insights found:
 
 *   **Overall Revenue:** The overall total revenue from all transactions was calculated to be **$738,000.00**. This figure provides a clear benchmark of the business's financial performance over the period covered by the dataset, indicating its overall scale of sales.
 
@@ -19,11 +53,11 @@ Based on the output of the Python script and the `category_summary.csv` file, he
 
 Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL) are interconnected fields within computer science, often used interchangeably, but they represent distinct levels of complexity and scope.
 
-*   **Artificial Intelligence (AI)** is the broadest concept. It refers to the development of computer systems that can perform tasks traditionally requiring human intelligence. These tasks include problem-solving, decision-making, understanding natural language, and perceiving environments. AI encompasses a wide array of techniques, from simple rule-based systems to highly complex learning algorithms. The goal of AI is to enable machines to think and act like humans or at least act rationally.
+*   **Artificial Intelligence (AI)** is the broadest concept. It refers to the development of computer systems that can perform tasks traditionally requiring human intelligence. These tasks include problem-solving, decision-making, understanding natural language, and perceiving environments. AI encompasses a wide array of techniques, from simple rule-based systems to highly complex learning algorithms. The ultimate goal is to enable machines to think and act like humans or at least act rationally.
 
 *   **Machine Learning (ML)** is a subset of AI. ML focuses on developing algorithms that allow computers to "learn" from data without being explicitly programmed for every specific task. Instead of being given step-by-step instructions, ML models are trained on large datasets, enabling them to identify patterns, make predictions, or take decisions based on the learned patterns. Common ML applications include spam detection, recommendation systems, and predictive analytics.
 
-*   **Deep Learning (DL)** is a specialized subset of ML. DL uses artificial neural networks with multiple layers (hence "deep") to learn complex patterns and representations from data. These deep neural networks are particularly effective with large amounts of unstructured data such as images, audio, and text. Unlike traditional ML, DL often reduces the need for manual "feature engineering" because the deep networks can automatically learn hierarchical features directly from the raw input. DL has driven significant advancements in areas like facial recognition, voice assistants, and autonomous driving.
+*   **Deep Learning (DL)** is a specialized subset of ML. Deep Learning uses artificial neural networks with multiple layers (hence "deep") to learn complex patterns and representations from data. These deep neural networks are particularly effective with large amounts of unstructured data such as images, audio, and text. Unlike traditional ML, Deep Learning often reduces the need for manual "feature engineering" because the deep networks can automatically learn hierarchical features directly from the raw input. Deep Learning has driven significant advancements in areas like facial recognition, voice assistants, and autonomous driving.
 
 In essence, AI is the overarching goal of creating intelligent machines. ML is one of the primary ways to achieve AI by enabling machines to learn from data. DL is a powerful, modern technique within ML that uses deep neural networks to handle complex data and learn intricate patterns.
 
