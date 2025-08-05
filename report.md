@@ -1,4 +1,5 @@
 # AI Assignment Report - William Anthony
+## goci 13223048@std.stei.itb.ac.id "Introduction to AI and the Python Ecosystem" ./WilliamAnthony_AI.zip
 (English)
 
 ## PROBLEM STATEMENT / ASSIGNMENT
@@ -41,17 +42,17 @@ So, based of the output of the Python script (machine_learning.py) after process
 
 *   **Overall Revenue:** The overall total revenue from all transactions was calculated to be **$738,000.00**. This figure provides a clear benchmark of the business's financial performance over the period covered by the dataset, indicating its overall scale of sales.
 
-*   **Top-Selling Product by Quantity:** The product with the highest quantity sold was **'Air Mineral'** with **30 units sold**. This highlights 'Air Mineral' as a key volume driver for the business, suggesting its popularity among customers and potential for further marketing or stock prioritization.
+*   **Top-Selling Product by Quantity:** The product with the highest quantity sold was **'Air Mineral'** with **30 units sold**. This highlights 'Air Mineral' as a key volume driver for the business, suggesting its popularity among customers and potential for further marketing, which means stock prioritization.
 
 *   **Most Profitable Category:** The **'Makanan'** product category generated the highest total revenue, amounting to **$283,500.00**. This indicates that 'Makanan' is the most profitable segment for the business, warranting strategic focus for growth, inventory management, and promotional activities. Following closely are 'Minuman' with $272,000.00 and 'Alat Tulis' with $182,500.00.
 
-*   **High-Volume Transactions:** There were **3 transactions** where the quantity sold was greater than 20. These specific transactions involved 'Pensil 2B' (25 units), 'Air Mineral' (30 units), and 'Teh Botol' (22 units). These larger-volume transactions could represent bulk purchases, business-to-business sales, or popular items purchased in larger quantities by individual consumers, suggesting opportunities for loyalty programs or specific large-volume customer targeting.
+*   **High-Volume Transactions:** There were **3 transactions** where the quantity sold was greater than 20. These specific transactions involved 'Pensil 2B' (25 units), 'Air Mineral' (30 units), and 'Teh Botol' (22 units). These larger-volume transactions could represent bulk purchases, business-to-business sales, or popular items purchased in larger quantities by individual consumers. This suggests opportunities such as loyalty programs or specific large-volume customer targeting.
 
 
 
 ## 2. Differences Between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL)
 
-Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL) are interconnected fields within computer science, often used interchangeably, but they represent distinct levels of complexity and scope.
+Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL) are interconnected fields within computer science. They are often used interchangeably, but they represent distinct levels of complexity and scope.
 
 *   **Artificial Intelligence (AI)** is the broadest concept. It refers to the development of computer systems that can perform tasks traditionally requiring human intelligence. These tasks include problem-solving, decision-making, understanding natural language, and perceiving environments. AI encompasses a wide array of techniques, from simple rule-based systems to highly complex learning algorithms. The ultimate goal is to enable machines to think and act like humans or at least act rationally.
 
@@ -63,13 +64,13 @@ In essence, AI is the overarching goal of creating intelligent machines. ML is o
 
 ## 3. Leveraging AI to Improve Business as a Store Owner
 
-As a store owner, you can leverage AI to significantly improve your business operations and profitability by making data-driven decisions based on existing sales data.
+As a store owner, AI can be leveraged to significantly improve business operations and profitability by making data-driven decisions based on existing sales data.
 
-Here are two examples of AI implementation:
+Two examples of AI implementation are:
 
 1.  **AI-Powered Demand Forecasting and Inventory Optimization:**
 
-    *   **How it works:** AI models can analyze your historical sales data, taking into account factors like seasonality, promotions, holidays, and even external data like local events or weather patterns. These models learn complex relationships within the data to predict future demand for each product with high accuracy. For instance, a deep learning model could identify that sales of ice cream surge not just in summer but specifically on hot, sunny weekends when a local park hosts events.
+    *   **How it works:** AI models can analyze the store's historical sales data, taking into account factors like seasonality, promotions, holidays, and even external data like local events or weather patterns. These models learn complex relationships within the data to predict future demand for each product with high accuracy. For instance, a deep learning model could identify that sales of ice cream surge not just in summer but specifically on hot, sunny weekends when a local park hosts events.
 
     *   **Business Improvement:** By accurately forecasting demand, you can optimize your inventory levels. This means reducing instances of being out of stock for popular items (preventing lost sales) and minimizing excess inventory (reducing carrying costs, spoilage for perishable goods, and the need for markdowns). This leads to increased profitability and improved customer satisfaction because products are consistently available when customers want them.
 
