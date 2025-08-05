@@ -1,6 +1,9 @@
 # AI Assignment Report - William Anthony
-## goci 13223048@std.stei.itb.ac.id "Introduction to AI and the Python Ecosystem" ./WilliamAnthony_AI.zip
+## goci 13223048@std.stei.itb.ac.id "Introduction to AI and the Python Ecosystem" ./WilliamAnthony_AI.zip ## v2.0.0
+## goci submit "Introduction to AI and the Python Ecosystem" ./WilliamAnthony_AI.zip v2.0.1
+
 (English)
+
 
 ## PROBLEM STATEMENT / ASSIGNMENT
 AI Assignment
